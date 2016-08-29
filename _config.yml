@@ -2,7 +2,7 @@
 title: "Title to this website"
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: ""
+baseurl: "/"
 url: "https://deleteroot.com"
 description: "Website description"
 cover: "/assets/img/cover.svg"
