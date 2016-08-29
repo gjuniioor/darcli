@@ -2,21 +2,18 @@
 title: "Title to this website"
 name: "Website name"
 keywords: "Key, words, about, this, website"
-baseurl: "/darcli"
-url: "http://website.com"
+baseurl: "/"
+url: "https://deleteroot.com"
 description: "Website description"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
 # Site general settings
 lang: "en"
-lang_alternate: "pt_BR"
 ssl: false # It will redirect to https
 
 # Media
 # Just the shortname:
-# facebook: lampiaosec # Rigth
-# facebook: facebook.com/lampiaosec # Wrong
 disqus: test
 twitter: 
 facebook: 
