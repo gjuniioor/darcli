@@ -1,7 +1,7 @@
 ---
 title: author1
-github: gjuniioor
-site: https://gjuniioor.github.io
+github: gildasio
+site: https://gildasio.github.io
 mail: email@author
 categories: team
 ---

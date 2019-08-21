@@ -2,7 +2,7 @@
 
 ## Demo
 
-You can see this theme on [gjuniioor.github.io/darcli](https://gjuniioor.github.io/darcli)
+You can see this theme on [gildasio.github.io/darcli](https://gildasio.github.io/darcli)
 
 ## Screenshot
 
@@ -27,7 +27,7 @@ It's just a joke: `dark + cli`.
 
 This is a theme intended to use to [lampiaosec website](https://lampiaosec.github.io) and after was converted to a general theme to jekyll.
 
-So, any questions, can you contact me ([@gjuniioor](https://github.com/gjuniioor)) or open a [issue](https://github.com/gjuniioor/darcli/issuesi).
+So, any questions, can you contact me ([@gildasio](https://github.com/gildasio)) or open a [issue](https://github.com/gildasio/darcli/issues).
 
 ## License
 
