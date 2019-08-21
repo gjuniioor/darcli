@@ -12,7 +12,7 @@ The categories to post was to support us, but you can change as you need.
 # $ cat contact.txt
 {:id="contact"}
 
-I think that all about this theme is intuitive, but if you want help, please, contact me: [gjuniioor](https://github.com/gjuniioor).
+I think that all about this theme is intuitive, but if you want help, please, contact me: [gildasio](https://github.com/gildasio).
 
 # $ cat team.txt
 {:id="team"}
